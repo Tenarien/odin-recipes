@@ -1,0 +1,22 @@
+body {
+    background-color: hsl(19, 76%, 84%);
+}
+
+img.odinRecipeImg {
+    width: 400px;
+    height: auto;
+}
+
+p {
+    font-size: 20px;
+}
+
+ul {
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+ol {
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
